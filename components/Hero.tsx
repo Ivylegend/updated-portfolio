@@ -34,7 +34,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi there, I'm Victory Icha, a Frontend Web Developer based in Nigeria
+            Hi there, I&apos;m Victory Icha, a Frontend Web Developer based in Nigeria
           </p>
 
           <a href="#about">
