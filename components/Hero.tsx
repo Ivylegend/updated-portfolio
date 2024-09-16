@@ -34,7 +34,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg">
-            Hi, I'm Victory Icha, a frontend developer crafting sleek,
+            Hi, I&apos;m Victory Icha, a frontend developer crafting sleek,
             responsive, and intuitive web applications. My passion lies in
             blending clean code with modern design to deliver user experiences
             that stand out and engage.
