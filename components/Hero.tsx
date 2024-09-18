@@ -48,11 +48,13 @@ const Hero = () => {
                 position="right"
               />
             </a>
-            <MagicButton
-              title="Get my CV"
-              icon={<FaLocationArrow />}
-              position="left"
-            />
+            <a href={"/cv.jpg"} download>
+              <MagicButton
+                title="Get my CV"
+                icon={<FaLocationArrow />}
+                position="left"
+              />
+            </a>
           </div>
         </div>
       </div>
