@@ -215,6 +215,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/icha-victory-b6150b269",
+    url: "https://www.linkedin.com/in/victory-icha",
   },
 ];
